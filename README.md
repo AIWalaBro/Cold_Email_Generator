@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # Leads Generation via Cold_Email_Generator
-=======
-# Leads Generation Via Cold Email Generator
->>>>>>> 289eb757348ca54011e44449240bb7ff3fef55be
+
 
 <p align="center">
   <img src="https://github.com/AIWalaBro/Cold_Email_Generator/blob/main/img/cold_mail_image.png" width=100% height=100%>
