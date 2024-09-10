@@ -1,4 +1,6 @@
 import re
+import os
+
 
 def clean_text(text):
     # Remove HTML tags
@@ -14,3 +16,4 @@ def clean_text(text):
     # Remove extra whitespace
     text = ' '.join(text.split())
     return text
+

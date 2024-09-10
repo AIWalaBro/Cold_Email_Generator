@@ -6,3 +6,4 @@ langchain-groq
 python-dotenv
 chromadb
 uuid
+beautifulsoup4
