@@ -8,7 +8,7 @@ from langchain_community.document_loaders import WebBaseLoader
 
 def create_streamlit_application(llm, portfolio, clean_text):
     st.title("📧 Lead Generator via Cold Email")
-    url_input = st.text_input("Enter a URL:", value = "https://jobs.adidas-group.com/adidas/job/Noida-Retail-Associate-UP/1118727101/?feedId=301201&utm_source=j2w")
+    url_input = st.text_input("Enter a URL:", value = "https://jobs.nike.com/job/R-40156?from=job%20search%20funnel")
     submit_button = st.button("Submit")
 
 
